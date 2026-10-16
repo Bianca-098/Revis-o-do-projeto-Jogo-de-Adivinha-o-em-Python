@@ -1,0 +1,10 @@
+1. Parte clara e fácil de entender
+A introdução do projeto é clara e fácil de entender, pois explica o objetivo do jogo: adivinhar um número secreto em até cinco tentativas. Assim, qualquer pessoa consegue compreender a proposta antes de ler o código.
+
+2. Parte que pode confundir alguém e como melhorar
+A parte do código que utiliza o comando for e as condições if, elif e else pode confundir quem ainda não conhece Python. Para melhorar, eu acrescentaria comentários explicando cada etapa do código e exemplos de como o programa responde aos palpites do jogador.
+
+3. Conclusão
+Ao revisar meu projeto, percebi que é importante explicar o funcionamento do código de maneira simples e organizada. Dessa forma, qualquer pessoa poderá entender o objetivo do jogo, acompanhar sua execução e compreender como a programação foi utilizada para desenvolvê-lo.
+
+
